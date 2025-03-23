@@ -1,8 +1,10 @@
 # dataengineer_projects_netflix
 #Project Overview
+
 This project builds an end-to-end data engineering pipeline using Azure Data Factory, Databricks, and Unity Catalog, following the Medallion Architecture (Bronze, Silver, Gold). The pipeline efficiently ingests, processes, and transforms Netflix dataset files from GitHub into a structured Delta Lakehouse.
 
 Technology Stack
+
 Cloud: Microsoft Azure
 Data Ingestion: Azure Data Factory (ADF)
 Storage: Azure Data Lake Storage Gen2 (ADLS)
